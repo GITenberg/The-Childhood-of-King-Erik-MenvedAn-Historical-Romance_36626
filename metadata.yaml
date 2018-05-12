@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5841
     wikipedia: http://en.wikipedia.org/wiki/Bernhard_Severin_Ingemann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36626#The-Childhood-of-King-Erik-MenvedAn-Historical-Romance
 gutenberg_issued: '2011-07-05'
 gutenberg_type: Text
 identifiers:
